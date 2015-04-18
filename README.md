@@ -23,7 +23,7 @@ COMMING SOON I WILL POST DESCRIPTION ABOUT HOW TO USE IT.
 
 License
 =====================
-Copyright 2014 David de Miguel Galán (Meslize)
+Copyright 2014 David de Miguel Galán
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
